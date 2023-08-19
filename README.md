@@ -30,7 +30,7 @@
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/tdolan21)
+⭐️ From [tdolan21](https://github.com/tdolan21)
 
 
 <!--
