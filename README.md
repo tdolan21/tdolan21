@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![tdolan21's GitHub stats](https://github-readme-stats.vercel.app/api?username=tdolan21)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tdolan21/tdolan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
