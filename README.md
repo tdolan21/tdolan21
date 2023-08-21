@@ -1,6 +1,6 @@
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tdolan21E&theme=tokyonight)
 
 ## 📊 My GitHub Statistics
 
